@@ -7,3 +7,7 @@ We have generated a matrix with 10 places and the distances.
 * The distance matrix for the problem can be as follows:
 
 ![Distance Matrix for European Cities](img/distmatrix.PNG)
+
+
+* The best possible solution we got was:
+![Best Solution](img/568472_map_best.html)

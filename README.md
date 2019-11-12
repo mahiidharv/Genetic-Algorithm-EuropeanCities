@@ -10,4 +10,4 @@ We have generated a matrix with 10 places and the distances.
 
 
 * The best possible solution we got was:
-![Best Solution](img/568472_map_best.html)
+![BestSolution](img/BestSolution.PNG)

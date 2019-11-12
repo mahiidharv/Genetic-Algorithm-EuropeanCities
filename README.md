@@ -13,3 +13,6 @@ We have generated a matrix with 10 places and the distances.
  Athens => Gibraltar => Barcelona => Cherbourg => Geneva => Calais => Brussels => Cologne => Hook of Holland => Copenhagen => Hamburg => Athens is 12936.
  
 ![BestSolution](img/BestSolution.PNG)
+
+
+Note: The final solution was obtained after multiple runs of the Genetic Algorithm with different inital population sizes and overall runs.
